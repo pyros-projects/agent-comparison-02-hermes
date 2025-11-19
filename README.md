@@ -1,3 +1,15 @@
+After struggling with interactive prompts and the prompt not to use them...
+
+![](img/interactive_1.png)
+
+![](img/interactive_2.png)
+
+
+an actual usable app got implemented!
+
+![](img/image.png)
+
+
 # Agent Comparison Series 02 - Hermes
 
 This repository is part of a small series of complex development tasks used to compare different AI agents and orchestration approaches.
